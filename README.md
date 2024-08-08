@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## About Me!
 <!--
 **ayazcoder/ayazcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Full Stack Developer with practical experience in developing and deploying web applications. I have a proven track record of creating highly scalable applications using full stack technologies, self-taught with a strong passion for coding. I excel in MERN and JavaScript, and I'm dedicated to delivering user-centric, accessible solutions. Quietly confident, naturally curious, and always improving, I'm happiest when I'm creating, learning, exploring, and enhancing my work. Eager to adapt and take on new challenges!
