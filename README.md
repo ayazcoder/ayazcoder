@@ -3,6 +3,11 @@
 <div style="width: 100%;">
   <img src="https://i.ibb.co/YjM248r/banner.png" alt="banner" style="width: 100%;" />
 </div>
+<div style="display: flex; gap: 10px; justify-content: center; margin-top: 20px;">
+  <a href="https://www.fiverr.com/prince_ayaz" style="background-color: #1DBF73; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">Fiverr</a>
+  <a href="https://www.linkedin.com/in/ayazcoder" style="background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">LinkedIn</a>
+  <a href="https://www.upwork.com/freelancers/ayazkhan" style="background-color: #6FDA44; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">Upwork</a>
+</div>
 
 ## About Me!
 <!--
@@ -24,7 +29,7 @@ Full Stack Developer with practical experience in developing and deploying web a
 
 - 💬 Ask me about React, Node.js, JavaScript, Express.js, MongoDB, HTML & CSS, SCSS
 
-### Ask me anything related to:
+### Languages and tools
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="40" height="40"/> 
