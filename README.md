@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](https://collection.cloudinary.com/dh6jiybqa/c38df847f9cf567ee6d7478190bdf082)
+![Banner](https://i.ibb.co/YjM248r/banner.png)
 ## About Me!
 <!--
 **ayazcoder/ayazcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
