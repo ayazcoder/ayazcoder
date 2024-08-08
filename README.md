@@ -3,10 +3,16 @@
 <div style="width: 100%;">
   <img src="https://i.ibb.co/YjM248r/banner.png" alt="banner" style="width: 100%;" />
 </div>
-<div style="display: flex; gap: 10px; justify-content: center; margin-top: 20px;">
-  <a href="https://www.fiverr.com/prince_ayaz" style="background-color: #1DBF73; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">Fiverr</a>
-  <a href="https://www.linkedin.com/in/ayazcoder" style="background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">LinkedIn</a>
-  <a href="https://www.upwork.com/freelancers/ayazkhan" style="background-color: #6FDA44; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">Upwork</a>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.fiverr.com/your-profile">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Fiverr logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/your-profile">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="25" alt="Upwork logo" />
+  </a>
 </div>
 
 ## About Me!
