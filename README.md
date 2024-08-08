@@ -3,17 +3,19 @@
 <div style="width: 100%;">
   <img src="https://i.ibb.co/YjM248r/banner.png" alt="banner" style="width: 100%;" />
 </div>
+
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.fiverr.com/prince_ayaz">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Fiverr logo" />
   </a>
-  <a href="https://www.linkedin.com/in/ayazcoder" target="_blank" rel="nofollow">
+  <a href="https://www.linkedin.com/in/ayazcoder" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
   </a>
   <a href="https://www.upwork.com/freelancers/ayazkhan">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="25" alt="Upwork logo" />
   </a>
 </div>
+
 ## About Me!
 <!--
 **ayazcoder/ayazcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +36,7 @@ Full Stack Developer with practical experience in developing and deploying web a
 
 - 💬 Ask me about React, Node.js, JavaScript, Express.js, MongoDB, HTML & CSS, SCSS
 
-### Languages and tools
+### Languages and Tools
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="40" height="40"/> 
