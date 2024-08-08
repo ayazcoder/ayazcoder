@@ -1,6 +1,7 @@
 ## Hi there 👋
-![Banner](https://i.ibb.co/YjM248r/banner.png)
+<div style=" width="100%" ">
 <img src="https://i.ibb.co/YjM248r/banner.png" alt="banner" border="0">
+</div>
 ## About Me!
 <!--
 **ayazcoder/ayazcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
