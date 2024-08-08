@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div style=" width="100%" ">
+<div style="width=100%;">
 <img src="https://i.ibb.co/YjM248r/banner.png" alt="banner" border="0">
 </div>
 ## About Me!
