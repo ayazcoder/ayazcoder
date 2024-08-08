@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Banner](https://images.pexels.com/photos/7534211/pexels-photo-7534211.jpeg)
-<img src="https://images.pexels.com/photos/7534211/pexels-photo-7534211.jpeg" alt="JavaScript"/> 
+![Banner](https://collection.cloudinary.com/dh6jiybqa/c38df847f9cf567ee6d7478190bdf082)
 ## About Me!
 <!--
 **ayazcoder/ayazcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
