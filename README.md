@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Banner](https://drive.google.com/file/d/11RCp7m2QaWiaNxFuu4_WY9746llaRmFU/view?usp=sharing)
+<img src="[https://img.icons8.com/color/48/000000/javascript.png](https://drive.google.com/file/d/11RCp7m2QaWiaNxFuu4_WY9746llaRmFU/view?usp=sharing)" alt="JavaScript"/> 
 ## About Me!
 <!--
 **ayazcoder/ayazcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
