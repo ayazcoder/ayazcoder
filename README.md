@@ -21,7 +21,7 @@ Full Stack Developer with practical experience in developing and deploying web a
 - 💬 Ask me about React, Node.js, JavaScript, Express.js, MongoDB, HTML & CSS, SCSS
 
 ### Ask me anything related to:
-
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux Toolkit" width="40" height="40"/> 
@@ -34,3 +34,4 @@ Full Stack Developer with practical experience in developing and deploying web a
 <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+</div>
