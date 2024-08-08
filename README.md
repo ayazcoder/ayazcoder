@@ -4,13 +4,13 @@
   <img src="https://i.ibb.co/YjM248r/banner.png" alt="banner" style="width: 100%;" />
 </div>
 <div align="center" style="margin-top: 20px;">
-  <a href="https://www.fiverr.com/your-profile">
+  <a href="https://www.fiverr.com/your-profile" target="_blank" >
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Fiverr logo" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile" rel="nofollow">
+  <a href="https://www.linkedin.com/in/your-profile" rel="nofollow" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.upwork.com/freelancers/your-profile">
+  <a href="https://www.upwork.com/freelancers/your-profile" target="_blank" >
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="25" alt="Upwork logo" />
   </a>
 </div>
