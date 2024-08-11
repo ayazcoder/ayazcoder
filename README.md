@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="width: 100%;">
-  <img src="https://ibb.co/t83c8ND/banner.png" alt="banner" style="width: 100%;" />
+ <a href="https://ibb.co/t83c8ND"><img src="https://i.ibb.co/GcFkc1R/banner.png" alt="banner" border="0" /></a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
