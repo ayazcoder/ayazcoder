@@ -5,13 +5,13 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://www.fiverr.com/prince_ayaz">
+  <a href="https://www.fiverr.com/prince_ayaz" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Fiverr logo" />
   </a>
   <a href="https://www.linkedin.com/in/ayazcoder" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.upwork.com/freelancers/ayazkhan">
+  <a href="https://www.upwork.com/freelancers/ayazkhan" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="25" alt="Upwork logo" />
   </a>
 </div>
