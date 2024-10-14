@@ -50,4 +50,5 @@ MERN Stack Developer with practical experience in developing and deploying web a
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/stripe.png"  alt="Stripe"  width="40"   height="40" />
 </div>
